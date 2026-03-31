@@ -102,8 +102,7 @@ const App = () => {
       pay: 48,
       location: "Bangalore, India"
     }
-  ];
-
+  ]
   return (
     <div className='parent' >
       {openings.map(function (elem,idex) {
